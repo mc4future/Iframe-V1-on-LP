@@ -10,7 +10,7 @@ Please Make sure you follow all these steps in order to implement this feature f
 
 3. Copy the page number from the url which looks like This
 
-~~https://www.wishpond.com/central/landing_pages/~~`2455192`~~/edit?type=photo&urk=418b5f54ae82abcc10425e279c33c512c5f0a7e5f23f98aa&user_action=editing&wizard_step_key=9acfbeef-4614-4981-8fe8-976f0e6a65c4~~
+~~https://www.wishpond.com/central/landing_pages/~~ `2455192` ~~/edit?type=photo&urk=418b5f54ae82abcc10425e279c33c512c5f0a7e5f23f98aa&user_action=editing&wizard_step_key=9acfbeef-4614-4981-8fe8-976f0e6a65c4~~
 
 4. Add the code below on the JS section
 
