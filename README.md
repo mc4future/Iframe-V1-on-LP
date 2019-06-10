@@ -130,4 +130,16 @@ window.addEventListener('message', receiveMessage, false);
 
 21. write down `hide-this` and click on `Done`
 
-22. Save the changes and Good luck
+23. Click on Campaign Design
+
+24 Click on `Custom CSS`
+
+25. Add the code Below and Save
+
+```css
+.hide-this{
+    display: none;
+}
+```
+
+26. Save the changes and Good luck
