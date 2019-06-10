@@ -105,7 +105,7 @@ function receiveMessage(evt){
 window.addEventListener('message', receiveMessage, false);
 ```
 
-16. Click on `Add Content` and Drag `HTML` and drop it where you want your field to be.
+16. Click on `Add Content` and Drag `HTML` and drop it where you want your form to be.
 
 17. Edit the `HTML` content and paste the embed code that was copied on step `8` the following code
 
@@ -122,4 +122,12 @@ window.addEventListener('message', receiveMessage, false);
 <iframe style="position: absolute; height: 100%; border: none" src="https://embedded.wishpondpages.com/lp/[2455192 page number from step 3]/?gallery=true" style="border:0px #ffffff none;" name="gallery" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
 ```
 
-18. Save the changes and Good luck
+18. Click on `Add Content` and Drag `form` and drop it wherever. If you already have form this step is not needed.
+
+19. Remove all the fields except the submit button
+
+20. Click on the submit button -> click on `more` and choose `CSS Classes & ID`
+
+21. write down `hide-this` and click on `Done`
+
+22. Save the changes and Good luck
